@@ -2,7 +2,6 @@
 import {
     UI_ELEMENTS,
     resetInputText,
-    clearOutputField,
     showResult,
 } from './view.js'
 
